@@ -1,0 +1,35 @@
+# Lean
+.lake/
+lake-packages/
+build/
+*.olean
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX
+*.aux
+*.out
+*.toc
+*.blg
+*.bbl
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.log
+*.pdf
+!paper/main.pdf
+!data/**/*.log
+!data/**/*.json
+!data/**/*.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+Reproducibility environment (recorded values, not re-queried at build).
+
+- Python: 3.14.7 (stdlib-only certificate scripts)
+- SymPy: 1.14.0 (exact rational arithmetic in SymPy-based checks)
+- SageMath: 10.9 (exact QQ sparse linear algebra, primdec, elimination)
+- Lean: 4.33.1, Lake 5.0.0 (core Lean without Mathlib; native_decide
+  evaluation; per-theorem axiom footprints in paper/12-certification.tex
+  and docs/lean-axioms-battery-2026-09-27.log)
+- Document build: pdflatex + bibtex (three passes), plain bibliography style
+- Finite field (consistency checks only, never proofs): ell = 1000003
+- OS/shell of record: Linux, zsh (paths are POSIX-relative to repo root)

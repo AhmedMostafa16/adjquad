@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Invariant Rings of Adjacent-Quadratic Triangular Derivations
+authors:
+  - family-names: Adly
+    given-names: Ahmed M.
+    orcid: https://orcid.org/0009-0004-4344-141X
+year: 2026
+type: unpublished
+license: Apache-2.0
+repository-code: https://github.com/AhmedMostafa16/adjquad
+keywords:
+  - locally nilpotent derivation
+  - invariant ring
+  - triangular derivation
+  - Hilbert's fourteenth problem
