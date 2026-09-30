@@ -1,0 +1,148 @@
+# Fresh exact-QQ rank rerun 15-46 for the C5 graded comparison
+# repo commit: 7da6b634f15458658c72bfb0c9283bf6e31ecd45
+# script: scripts/sage/exact_ranks.sage
+# sage: 10.9
+# date (UTC): 2026-09-27T02:32:00Z
+# method: sparse exact rational rank (LinBox); N_QQ=dimV-rank(M), img=rank(G), excess=N_QQ-img
+# each batch: sage scripts/sage/exact_ranks.sage <weights> log=/tmp/rN.log
+
+===== batch 1 =====
+=== weight 15 ===
+dimV=293 rank(M)=229 N_QQ=64
+C5rows=64 rank(G)=64
+formula=64 excess=N_QQ-rank(G)=0
+=== weight 16 ===
+dimV=361 rank(M)=286 N_QQ=75
+C5rows=75 rank(G)=75
+formula=75 excess=N_QQ-rank(G)=0
+=== weight 17 ===
+dimV=440 rank(M)=354 N_QQ=86
+C5rows=86 rank(G)=86
+formula=86 excess=N_QQ-rank(G)=0
+=== weight 18 ===
+dimV=533 rank(M)=433 N_QQ=100
+C5rows=100 rank(G)=100
+formula=100 excess=N_QQ-rank(G)=0
+=== weight 19 ===
+dimV=640 rank(M)=526 N_QQ=114
+C5rows=114 rank(G)=114
+formula=114 excess=N_QQ-rank(G)=0
+=== weight 20 ===
+dimV=764 rank(M)=633 N_QQ=131
+C5rows=131 rank(G)=131
+formula=131 excess=N_QQ-rank(G)=0
+=== weight 21 ===
+dimV=906 rank(M)=758 N_QQ=148
+C5rows=148 rank(G)=148
+formula=148 excess=N_QQ-rank(G)=0
+=== weight 22 ===
+dimV=1068 rank(M)=900 N_QQ=168
+C5rows=168 rank(G)=168
+formula=168 excess=N_QQ-rank(G)=0
+
+===== batch 2 =====
+=== weight 23 ===
+dimV=1252 rank(M)=1064 N_QQ=188
+C5rows=188 rank(G)=188
+formula=188 excess=N_QQ-rank(G)=0
+=== weight 24 ===
+dimV=1461 rank(M)=1248 N_QQ=213
+C5rows=213 rank(G)=213
+formula=213 excess=N_QQ-rank(G)=0
+=== weight 25 ===
+dimV=1696 rank(M)=1458 N_QQ=238
+C5rows=238 rank(G)=238
+formula=238 excess=N_QQ-rank(G)=0
+=== weight 26 ===
+dimV=1961 rank(M)=1694 N_QQ=267
+C5rows=267 rank(G)=267
+formula=267 excess=N_QQ-rank(G)=0
+=== weight 27 ===
+dimV=2257 rank(M)=1961 N_QQ=296
+C5rows=296 rank(G)=296
+formula=296 excess=N_QQ-rank(G)=0
+=== weight 28 ===
+dimV=2588 rank(M)=2258 N_QQ=330
+C5rows=331 rank(G)=330
+formula=330 excess=N_QQ-rank(G)=0
+=== weight 29 ===
+dimV=2956 rank(M)=2592 N_QQ=364
+C5rows=366 rank(G)=364
+formula=364 excess=N_QQ-rank(G)=0
+=== weight 30 ===
+dimV=3365 rank(M)=2961 N_QQ=404
+C5rows=407 rank(G)=404
+formula=404 excess=N_QQ-rank(G)=0
+
+===== batch 3 =====
+=== weight 31 ===
+dimV=3817 rank(M)=3373 N_QQ=444
+C5rows=448 rank(G)=444
+formula=444 excess=N_QQ-rank(G)=0
+=== weight 32 ===
+dimV=4317 rank(M)=3827 N_QQ=490
+C5rows=496 rank(G)=490
+formula=490 excess=N_QQ-rank(G)=0
+=== weight 33 ===
+dimV=4867 rank(M)=4331 N_QQ=536
+C5rows=544 rank(G)=536
+formula=536 excess=N_QQ-rank(G)=0
+=== weight 34 ===
+dimV=5472 rank(M)=4884 N_QQ=588
+C5rows=599 rank(G)=588
+formula=588 excess=N_QQ-rank(G)=0
+=== weight 35 ===
+dimV=6135 rank(M)=5495 N_QQ=640
+C5rows=654 rank(G)=640
+formula=640 excess=N_QQ-rank(G)=0
+=== weight 36 ===
+dimV=6861 rank(M)=6161 N_QQ=700
+C5rows=718 rank(G)=700
+formula=700 excess=N_QQ-rank(G)=0
+=== weight 37 ===
+dimV=7653 rank(M)=6893 N_QQ=760
+C5rows=782 rank(G)=760
+formula=760 excess=N_QQ-rank(G)=0
+=== weight 38 ===
+dimV=8517 rank(M)=7689 N_QQ=828
+C5rows=855 rank(G)=828
+formula=828 excess=N_QQ-rank(G)=0
+
+===== batch 4 =====
+=== weight 39 ===
+dimV=9456 rank(M)=8560 N_QQ=896
+C5rows=928 rank(G)=896
+formula=896 excess=N_QQ-rank(G)=0
+=== weight 40 ===
+dimV=10477 rank(M)=9505 N_QQ=972
+C5rows=1011 rank(G)=972
+formula=972 excess=N_QQ-rank(G)=0
+=== weight 41 ===
+dimV=11583 rank(M)=10535 N_QQ=1048
+C5rows=1094 rank(G)=1048
+formula=1048 excess=N_QQ-rank(G)=0
+=== weight 42 ===
+dimV=12781 rank(M)=11647 N_QQ=1134
+C5rows=1189 rank(G)=1134
+formula=1134 excess=N_QQ-rank(G)=0
+=== weight 43 ===
+dimV=14075 rank(M)=12855 N_QQ=1220
+C5rows=1284 rank(G)=1220
+formula=1220 excess=N_QQ-rank(G)=0
+=== weight 44 ===
+dimV=15472 rank(M)=14156 N_QQ=1316
+C5rows=1391 rank(G)=1316
+formula=1316 excess=N_QQ-rank(G)=0
+
+===== batch 5 =====
+=== weight 45 ===
+dimV=16977 rank(M)=15565 N_QQ=1412
+C5rows=1498 rank(G)=1412
+formula=1412 excess=N_QQ-rank(G)=0
+
+===== batch 6 =====
+=== weight 46 ===
+dimV=18597 rank(M)=17078 N_QQ=1519
+C5rows=1618 rank(G)=1518
+formula=1518 excess=N_QQ-rank(G)=1
+

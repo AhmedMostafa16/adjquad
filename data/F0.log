@@ -1,0 +1,28 @@
+PASS verify_D(F_0) is True
+PASS apply_D(F_0) == 0
+PASS F_0 sums to its six terms
+PASS D(t1)=p^2q^4zy
+PASS D(t2)=-p^2q^4yz-p^2q^3x^2z-pq^3x^2y^2
+PASS D(t3)=p^2q^3x^2z+(1/3)pq^2x^4y
+PASS D(t4)=pq^3x^2y^2+(2/3)pq^2x^4y
+PASS D(t5)=-pq^2x^4y-(1/5)pqx^6
+PASS D(t6)=(1/5)pqx^6
+PASS group p^2q^4zy cancels
+PASS all six D-terms sum to 0
+PASS total ordinary degree 7
+PASS six monomials present
+PASS every monomial has degree 7
+PASS every monomial has Fibonacci weight 14
+PASS weight list is [14]*6
+PASS Jacobian 5x5 minor = 4*a_4^3*a_5^5
+PASS minor is a nonzero polynomial
+PASS dF_0/da_0 = p^2q^4
+PASS p free of a_0
+PASS q free of a_0
+PASS J_1 free of a_0
+PASS J_2 free of a_0
+PASS Jacobian rank 5 at sample point
+PASS G_0 free of a_0
+PASS G_0 lies in B (no a_0 symbols)
+PASS D-split cancels: D(c*a_0)+D(G_0)=0
+check_F0 OK

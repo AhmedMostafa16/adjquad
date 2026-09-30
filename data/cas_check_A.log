@@ -1,0 +1,40 @@
+PASS N=2 D(a_0)=a_1*a_2
+PASS N=2 D(a_N)=0
+PASS N=2 D(a_{N-1})=0
+PASS N=2 verify_D(a_N)
+PASS N=2 not verify_D(a_0)
+PASS N=2 verify_D(1)
+PASS N=3 D(a_0)=a_1*a_2
+PASS N=3 D(a_N)=0
+PASS N=3 D(a_{N-1})=0
+PASS N=3 verify_D(a_N)
+PASS N=3 not verify_D(a_0)
+PASS N=3 verify_D(1)
+PASS N=4 D(a_0)=a_1*a_2
+PASS N=4 D(a_N)=0
+PASS N=4 D(a_{N-1})=0
+PASS N=4 verify_D(a_N)
+PASS N=4 not verify_D(a_0)
+PASS N=4 verify_D(1)
+PASS N=5 D(a_0)=a_1*a_2
+PASS N=5 D(a_N)=0
+PASS N=5 D(a_{N-1})=0
+PASS N=5 verify_D(a_N)
+PASS N=5 not verify_D(a_0)
+PASS N=5 verify_D(1)
+PASS N=6 D(a_0)=a_1*a_2
+PASS N=6 D(a_N)=0
+PASS N=6 D(a_{N-1})=0
+PASS N=6 verify_D(a_N)
+PASS N=6 not verify_D(a_0)
+PASS N=6 verify_D(1)
+PASS N=4 Leibniz D(fg)=D(f)g+fD(g)
+PASS N=2 D^(tau-1)(a_0)!=0 tau=F_3=2
+PASS N=2 D^tau(a_0)==0 tau=F_3=2
+PASS N=3 D^(tau-1)(a_0)!=0 tau=F_4=3
+PASS N=3 D^tau(a_0)==0 tau=F_4=3
+PASS N=4 D^(tau-1)(a_0)!=0 tau=F_5=5
+PASS N=4 D^tau(a_0)==0 tau=F_5=5
+PASS N=5 D^(tau-1)(a_0)!=0 tau=F_6=8
+PASS N=5 D^tau(a_0)==0 tau=F_6=8
+harness OK

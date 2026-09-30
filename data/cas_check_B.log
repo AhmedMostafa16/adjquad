@@ -1,0 +1,53 @@
+PASS N=3 D(a_0)=a_1*a_2
+PASS N=3 D^2(a_0)=a_2^2*a_3
+PASS N=3 D^3(a_0)=0
+PASS N=3 Euler gap flow-discrete=lam^2/2*a_2^2*a_3
+PASS N=3 gap nonzero (discrete!=exp on generators)
+PASS N=3 verify_D(H)
+PASS N=3 discrete I_0 P-invariant
+PASS N=3 I_0 lam->0 limit is H
+PASS N=4 verify_D(2a0a3-a1^2)
+PASS N=4 verify_D(2a1a4-a2^2)
+PASS N=4 verify_D(a0-a1^2/2a3)
+PASS N=4 verify_D(a1-a2^2/2a4)
+PASS N=4 D^2(a_0)=a_2^2a_3+a_1a_3a_4
+PASS N=4 D^3(a_0)=3a_2a_3^2a_4
+PASS N=4 D^4(a_0)=3a_3^3a_4^2
+PASS N=4 D^5(a_0)=0
+PASS N=4 lam^2 defect coefficient nonzero
+PASS N=4 discrete!=exp (gap nonzero)
+PASS N=4 Delta_c S_1(u)=u^1
+PASS N=4 Delta_c S_2(u)=u^2
+PASS N=4 Delta_c S_3(u)=u^3
+PASS N=4 discrete I_1 P-invariant
+PASS N=4 discrete I_0 (S-form) P-invariant
+PASS N=4 commutator [P_lam,P_mu]_0=lam mu(lam-mu)a2a3^2a4
+PASS N=4 commutator component 1 vanishes
+PASS N=4 commutator component 2 vanishes
+PASS N=4 commutator component 3 vanishes
+PASS N=4 commutator component 4 vanishes
+PASS F_3 all orbits match classification
+PASS F_3 fixed count q^3+q(q-1)=33
+PASS F_3 c=0 cycle points q(q-1)^2=12
+PASS F_3 c!=0 cycle points (q-1)^2q^2=36 over L=3
+PASS F_5 all orbits match classification
+PASS F_5 fixed count q^3+q(q-1)=145
+PASS F_5 c=0 cycle points q(q-1)^2=80
+PASS F_5 c!=0 cycle points (q-1)^2q^2=400 over L=5
+PASS F_7 all orbits match classification
+PASS F_7 fixed count q^3+q(q-1)=385
+PASS F_7 c=0 cycle points q(q-1)^2=252
+PASS F_7 c!=0 cycle points (q-1)^2q^2=1764 over L=7
+PASS F_11 all orbits match classification
+PASS F_11 fixed count q^3+q(q-1)=1441
+PASS F_11 c=0 cycle points q(q-1)^2=1100
+PASS F_11 c!=0 cycle points (q-1)^2q^2=12100 over L=11
+PASS F_2 all orbits match classification
+PASS F_2 fixed count q^3+q(q-1)=10
+PASS F_2 c=0 cycle points q(q-1)^2=2
+PASS F_2 c!=0 cycle points (q-1)^2q^2=4 over L=4
+PASS F_4 all orbits match classification
+PASS F_4 fixed count q^3+q(q-1)=76
+PASS F_4 c=0 cycle points q(q-1)^2=36
+PASS F_4 c!=0 cycle points (q-1)^2q^2=144 over L=4
+check_B OK

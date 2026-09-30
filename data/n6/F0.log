@@ -1,0 +1,8 @@
+PASS D6(F0_6)=0
+PASS D6(F0_6)=0 (direct)
+PASS a0-coefficient is c6^2
+PASS G' is a0-free
+PASS uniform Fibonacci weight 25
+PASS ordinary degree 13 (max term degree)
+PASS 13 terms (c6^2*a0 + 12)
+check_N6_F0 OK

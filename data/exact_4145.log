@@ -1,0 +1,20 @@
+=== weight 41 ===
+dimV=11583 rank(M)=10535 N_QQ=1048
+C5rows=1094 rank(G)=1048
+formula=1048 excess=N_QQ-rank(G)=0
+=== weight 42 ===
+dimV=12781 rank(M)=11647 N_QQ=1134
+C5rows=1189 rank(G)=1134
+formula=1134 excess=N_QQ-rank(G)=0
+=== weight 43 ===
+dimV=14075 rank(M)=12855 N_QQ=1220
+C5rows=1284 rank(G)=1220
+formula=1220 excess=N_QQ-rank(G)=0
+=== weight 44 ===
+dimV=15472 rank(M)=14156 N_QQ=1316
+C5rows=1391 rank(G)=1316
+formula=1316 excess=N_QQ-rank(G)=0
+=== weight 45 ===
+dimV=16977 rank(M)=15565 N_QQ=1412
+C5rows=1498 rank(G)=1412
+formula=1412 excess=N_QQ-rank(G)=0

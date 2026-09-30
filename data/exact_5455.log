@@ -1,0 +1,8 @@
+=== weight 54 ===
+dimV=36497 rank(M)=33919 N_QQ=2578
+C5rows=2838 rank(G)=2571
+formula=2571 excess=N_QQ-rank(G)=7
+=== weight 55 ===
+dimV=39464 rank(M)=36726 N_QQ=2738
+C5rows=3026 rank(G)=2730
+formula=2730 excess=N_QQ-rank(G)=8

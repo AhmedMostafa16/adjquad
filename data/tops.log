@@ -1,0 +1,4 @@
+F0: deg_a0=1 top={(0, 0, 0, 2, 4): Fraction(1, 1)} vp=2 vq=4 OK
+H: deg_a0=2 top={(0, 0, 0, 4, 4): Fraction(11025, 1)} vp=4 vq=4 OK
+F46: deg_a0=4 top={(0, 0, 0, 6, 8): Fraction(121550625, 1)} vp=6 vq=8 OK
+ALL OK

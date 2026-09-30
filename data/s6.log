@@ -1,0 +1,43 @@
+PASS A-S-is-zero
+PASS A-DH-zero
+PASS B-Sfree-weight-28
+PASS B-Sfree-irreducible
+PASS B-Sfree-deg-H6-one
+  factor(Sfree) = H6*Q**4 - 105*Q**2*R1*R2**5 - 9*R2**7 - 11025*R5**2
+  valuations  H2 vp=4 vq=4 (2j=4, 4j=8)  |  H0 vp=0 vq=-4 (2j=0, 4j=0)  |  H1 = 0
+PASS C-H2-in-Kpq
+PASS C-H1-is-zero
+PASS C-q-refuted-j2-H2
+PASS C-q-refuted-j0-H0
+PASS C-p-sat-j2-H2
+PASS C-p-sat-j0-H0
+  C0 valuations vp=0 vq=0  (genuine: must be >= 0)
+PASS D-C0-genuine-vq
+PASS D-C0-genuine-vp
+PASS D-C0-eq-Wexp
+  kill shot  q4(H2 rho2)|q=0 = 9*a3**14   q4 H0|q=0 = -9*a3**14
+PASS D-killshot-A
+PASS D-killshot-B
+PASS D-killshot-sum-0
+E:   w   N(w)   s6(w)-s6(w-28)   match
+    5     8       8                  OK
+PASS E-w5-N8
+    15    64      64                 OK
+PASS E-w15-N64
+    23    188     188                OK
+PASS E-w23-N188
+    24    213     213                OK
+PASS E-w24-N213
+    25    238     238                OK
+PASS E-w25-N238
+    30    404     404                OK
+PASS E-w30-N404
+    35    640     640                OK
+PASS E-w35-N640
+    40    972     972                OK
+PASS E-w40-N972
+  anchors N(23)=188 N(24)=213 N(25)=238 (want 188 213 238)
+PASS E-anchor-23-188
+PASS E-anchor-24-213
+PASS E-anchor-25-238
+check_s6 OK

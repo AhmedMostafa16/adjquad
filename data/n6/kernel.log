@@ -1,0 +1,48 @@
+PASS D(a_1)=a_2a_3
+PASS D(a_2)=a_3a_4
+PASS D(a_3)=a_4a_5
+PASS D(a_4)=a_5a_6
+PASS D(a_5)=0
+PASS D(a_6)=0
+PASS D(G_1=a_5)=0
+PASS verify_D(G_1=a_5)
+PASS D(G_2=a_6)=0
+PASS verify_D(G_2=a_6)
+PASS D(G_3=2a_2a_5-a_3^2)=0
+PASS verify_D(G_3=2a_2a_5-a_3^2)
+PASS D(G_4=2a_3a_6-a_4^2)=0
+PASS verify_D(G_4=2a_3a_6-a_4^2)
+PASS D(G_5 (degree 7))=0
+PASS verify_D(G_5 (degree 7))
+PASS G_5=T_0+...+T_5
+PASS D(T_0)=105a_2a_3a_5^2a_6^4
+PASS D(T_1) kills T_0 defect
+PASS D(T_2) kills a_2a_4^2 defect
+PASS D(T_3) kills a_3^2a_4^2 defect
+PASS D(T_4) kills a_3a_4^4 defect
+PASS D(T_5) kills a_4^6 defect
+PASS old J_1 defect D(2a_1a_4-a_2^2)=2a_1a_5a_6
+PASS old J_1 not invariant
+PASS Jacobian 5x5 minor = 420*a_5^3*a_6^5
+PASS minor is a nonzero polynomial
+PASS Jacobian rank 5 at sample point
+PASS t1 m=1: nulldim 5, no new direction
+PASS t1 m=2: nulldim 8, no new direction
+PASS t1 m=3: nulldim 14, no new direction
+PASS t1 m=4: nulldim 20, no new direction
+PASS t1 m=5: nulldim 30, no new direction
+PASS t1 m=6: nulldim 41, exactly one new direction
+PASS G_5 a_1-coefficient is 105a_5^2a_6^4
+PASS generator degrees are 1,1,2,2,7
+PASS D(s)=1 for s=a_4/(a_5a_6)
+PASS s is not invariant
+PASS a_4=a_5a_6s
+PASS a_3=G_4/(2a_6)+a_5^2a_6s^2/2
+PASS a_2=G_3/(2a_5)+a_3^2/(2a_5)
+PASS a_1=(G_5-N_5)/(105a_5^2a_6^4)
+PASS every denominator is a power of a_5a_6
+PASS G_5^2+9G_4^7 vanishes mod a_6
+PASS quotient S=(G_5^2+9G_4^7)/a_6 is a polynomial
+PASS D(S)=0
+PASS S has degree 13
+check_kernel6 OK

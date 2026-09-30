@@ -1,0 +1,5 @@
+PASS 7 generators (S + 6 partials)
+PASS generator S matches a-variable S (bridge)
+singular locus affine dim = 3
+PASS singular locus dim < 5
+check_singlocus OK

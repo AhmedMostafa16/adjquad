@@ -1,0 +1,14 @@
+base self-checks:
+PASS D6(HB)=0
+PASS dir1 eq (deg 7)
+PASS dir2 eq (deg 7)
+PASS dir3 eq (deg 7)
+PASS dir4 eq (deg 8)
+base checks t=0.0s
+rows: 19008 Mcols: 259 Ncols: 15504
+nullF = 409 nullN = 315 goods_QQ(14) = 94
+kernel_basis_start
+len(K.basis()) = 409
+Mpairs (nonempty M): 93
+dim-span all Mparts: 93
+diag DONE

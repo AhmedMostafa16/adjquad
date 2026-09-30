@@ -1,0 +1,24 @@
+# tower_degm: m=5 J=(p^10 q^12) [EXACT-QQ, Sage LinBox]
+  self-test chain==direct at w=10 OK
+  self-test chain==direct at w=14 OK
+=== m=5 weight 60 ===
+n_le=3679 N_J=3678 nviol=1 pred=1 (res=96.5s con=91.3s)
+MATCH prediction (no new primitive at degree 5, w=60)
+# tower_degm: m=4 J=(p^8 q^8) [EXACT-QQ, Sage LinBox]
+  self-test chain==direct at w=10 OK
+  self-test chain==direct at w=14 OK
+=== m=4 weight 46 ===
+n_le=1519 N_J=1518 nviol=1 pred=1 (res=7.1s con=5.5s)
+MATCH prediction (no new primitive at degree 4, w=46)
+=== m=4 weight 47 ===
+n_le=1626 N_J=1624 nviol=2 pred=2 (res=8.6s con=6.5s)
+MATCH prediction (no new primitive at degree 4, w=47)
+=== m=4 weight 48 ===
+n_le=1745 N_J=1743 nviol=2 pred=2 (res=10.3s con=10.0s)
+MATCH prediction (no new primitive at degree 4, w=48)
+# tower_degm: m=6 J=(p^12 q^12) [EXACT-QQ, Sage LinBox]
+  self-test chain==direct at w=10 OK
+  self-test chain==direct at w=14 OK
+=== m=6 weight 70 ===
+n_le=6255 N_J=6254 nviol=1 pred=1 (res=1173.3s con=1878.1s)
+MATCH prediction (no new primitive at degree 6, w=70)

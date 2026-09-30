@@ -1,0 +1,8 @@
+W-expansion valuations (m=4):
+  H_0: vq=-8 vp=-2  | P/R2 need vp>=0; Q(q) need vq>=0
+  H_1: vq=-4 vp=0 (zero) | P/R2 need vp>=2; Q(q) need vq>=4
+  H_2: vq=0 vp=2  | P/R2 need vp>=4; Q(q) need vq>=8
+  H_3: vq=0 vp=0 (zero) | P/R2 need vp>=6; Q(q) need vq>=12
+  H_4: vq=8 vp=6  | P/R2 need vp>=8; Q(q) need vq>=16
+min(vq-4j)=-8 (R1 needs >=-2m=-8); min(vp-2j)=-2 (R2 needs >=0)
+residual of F mod (p, C5-span): 79 terms (nonzero => F outside C5 over QQ)

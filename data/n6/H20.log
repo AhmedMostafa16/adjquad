@@ -1,0 +1,8 @@
+PASS D6(H20)=0
+PASS D6(H20)=0 (direct)
+PASS a0-degree 1, a0-coeff a5^4*a6^3
+PASS uniform Fibonacci weight 20
+PASS 12 terms
+PASS H20 outside k[G,F0_6] (a0-part vs a0-free span)
+PASS F0_6 in a6^5*H20 + K6 (no new direction)
+check_N6_H20 OK

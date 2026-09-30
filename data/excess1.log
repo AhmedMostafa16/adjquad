@@ -1,0 +1,4 @@
+F46HF0: m=7 vp(top)=12 eps=1 nterms=398 OK
+F0^3F46: m=7 vp(top)=12 eps=1 nterms=385 OK
+F0^2: m=2 vp(top)=4 eps=1 nterms=18 OK
+ALL OK

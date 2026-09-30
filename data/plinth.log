@@ -1,0 +1,13 @@
+PASS D5(pq)=0
+PASS D5(px)=p^2q [a4**2*a5]
+PASS px not invariant
+PASS D5(xy)=pqy+px^2 [a2*a4*a5 + a3**2*a4]
+PASS xy not invariant
+PASS c=D5(a3a4a5^3)
+PASS D5(f13)=0
+PASS D5(g13)=f13
+PASS f13|q=0=-px^6/35!=0 [-a3**6*a4/35]
+PASS s1-s0=F0/(q f13)
+PASS D2^2=0 on generators
+PASS D2^2(a0^2)=2(a1a2)^2!=0 [2*b1**2*b2**2]
+plinth OK

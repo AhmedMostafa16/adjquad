@@ -1,0 +1,50 @@
+PASS D(G_1)=0
+PASS D(G_2)=0
+PASS D(G_3)=0
+PASS D(G_4)=0
+PASS D(G_5)=0
+PASS D(H_B)=0
+PASS c6^2 master identity
+PASS a5^4a6^3 master identity
+PASS no direction at m=6
+m  nulltot  kerB(m+1)  goods  expect(a5^4a6^3-fam)  verdict
+  0   2       2          0     0                      PRINCIPAL
+PASS m=0 keeps known directions
+PASS m=0 all witnessed (exact)
+  1   5       5          0     0                      PRINCIPAL
+PASS m=1 keeps known directions
+PASS m=1 all witnessed (exact)
+  2   8       8          0     0                      PRINCIPAL
+PASS m=2 keeps known directions
+PASS m=2 all witnessed (exact)
+  3   14      14         0     0                      PRINCIPAL
+PASS m=3 keeps known directions
+PASS m=3 all witnessed (exact)
+  4   20      20         0     0                      PRINCIPAL
+PASS m=4 keeps known directions
+PASS m=4 all witnessed (exact)
+  5   30      30         0     0                      PRINCIPAL
+PASS m=5 keeps known directions
+PASS m=5 all witnessed (exact)
+  6   41      41         0     0                      PRINCIPAL
+PASS m=6 keeps known directions
+PASS m=6 all witnessed (exact)
+  7   60      57         3     1                      A0-EXCESS(+2)
+PASS m=7 keeps known directions
+PASS m=7 all witnessed (exact)
+  8   82      75         7     2                      A0-EXCESS(+5)
+PASS m=8 keeps known directions
+PASS m=8 all witnessed (exact)
+  9   114     100        14    5                      A0-EXCESS(+9)
+PASS m=9 keeps known directions
+PASS m=9 all witnessed (exact)
+  10  152     128        24    8                      A0-EXCESS(+16)
+PASS m=10 keeps known directions
+PASS m=10 all witnessed (exact)
+  11  202     165        37    14                     A0-EXCESS(+23)
+PASS m=11 keeps known directions
+PASS m=11 all witnessed (exact)
+  12  261     206        55    20                     A0-EXCESS(+35)
+PASS m=12 keeps known directions
+PASS m=12 all witnessed (exact)
+check_N6_A0sat OK

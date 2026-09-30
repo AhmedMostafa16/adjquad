@@ -1,0 +1,6 @@
+vbar support size = 79
+vbar a0-profile = {0: 27, 1: 26, 2: 20, 3: 5, 4: 1}
+vbar max a0-degree = 4
+vbar top-a0 terms:
+  (4, 0, 0, 0, 6, 8) : 1
+vbar residual-after-G support = 79

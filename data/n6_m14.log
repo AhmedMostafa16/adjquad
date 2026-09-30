@@ -1,0 +1,27 @@
+base self-checks:
+PASS D6(HB)=0
+PASS dir1 eq (deg 7)
+PASS dir2 eq (deg 7)
+PASS dir3 eq (deg 7)
+PASS dir4 eq (deg 8)
+base checks t=0.0s
+rows: 19008 Mcols: 259 Ncols: 15504
+nullF = 409 nullN = 315 goods_QQ(14) = 94
+Mpairs (nonempty M): 93
+dim-span all Mparts: 93
+Traceback (most recent call last):
+  File "/usr/bin/sage", line 5, in <module>
+    from sage.cli.__main__ import main
+  File "/usr/lib/python3.14/site-packages/sage/cli/__main__.py", line 9, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/usr/lib/python3.14/site-packages/sage/cli/__init__.py", line 56, in main
+    return RunFileCmd(options).run()
+           ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/site-packages/sage/cli/run_file_cmd.py", line 50, in run
+    eval(compile(open(input_file, 'rb').read(), input_file, 'exec'), sage_globals())
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "scripts/cas/check_n6_m14.py", line 272, in <module>
+    assert len(basis) == goods, 'projection fault'
+           ^^^^^^^^^^^^^^^^^^^
+AssertionError: projection fault

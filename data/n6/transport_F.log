@@ -1,0 +1,11 @@
+PASS F46 loads 79 terms (got 79)
+PASS D5(F46)=0 (sanity, N=5 side)
+PASS phi(F46) has no a0
+PASS D6(phi(F46))=0 identically (direct expansion)
+PASS phi(F46) has a1-degree 4
+PASS transported top 121550625*a5^6*a6^8 (=(18375/4) normalized)
+  v5(top)=6 (transported J4 needs >=8: OUTSIDE)  v6(top)=8
+PASS transported top outside (a5^8*a6^8): v5=6<8
+  weights=[46]
+PASS phi(F46) uniform Fibonacci weight 46
+transport-F OK

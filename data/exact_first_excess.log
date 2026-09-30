@@ -1,0 +1,10 @@
+w=15 dimV=293 N_QQ=64 rank(G5)=64 OK
+w=16 dimV=361 N_QQ=75 rank(G5)=75 OK
+w=17 dimV=440 N_QQ=86 rank(G5)=86 OK
+w=18 dimV=533 N_QQ=100 rank(G5)=100 OK
+w=19 dimV=640 N_QQ=114 rank(G5)=114 OK
+w=20 dimV=764 N_QQ=131 rank(G5)=131 OK
+w=21 dimV=906 N_QQ=148 rank(G5)=148 OK
+w=22 dimV=1068 N_QQ=168 rank(G5)=168 OK
+w=23 dimV=1252 N_QQ=188 rank(G5)=188 OK
+FIRST-EXCESS H-at-24-CONFIRMED

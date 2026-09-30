@@ -1,0 +1,14 @@
+j : iszero | vq | vp
+0 : ZERO
+1 : vq=0 vp=0
+2 : ZERO
+3 : vq=8 vp=4
+4 : ZERO
+5 : vq=16 vp=8
+6 : ZERO
+7 : vq=24 vp=12
+P_1 factored: -19*J2s**2/(4*(35*J1s*a5**2 + 4*J2s**2))
+P_3 factored: -171500*a4**4*a5**8*(4*J1s*a5**2 + 3*J2s**2)/(3*J2s**3*(35*J1s*a5**2 + 4*J2s**2)**3)
+P_5 factored: -2016840000*a4**8*a5**16/(J2s**4*(35*J1s*a5**2 + 4*J2s**2)**5)
+P_7 factored: -9411920000000*a4**12*a5**24/(J2s**7*(35*J1s*a5**2 + 4*J2s**2)**7)
+v_q(Z)=v_q(NUM): True

@@ -1,0 +1,15 @@
+T1: T nonsquare in k(Q,T,W)  =>  [L_p(y):L_p] = 2
+T2: W^2-4Q^2T nonsquare  =>  X^2-(2QY-W) irreducible over L_p(y)
+    => total degree exactly 4, basis {1,X,Y,XY} over L_p
+T0: r_p nonzero sanity (sample point gives sqrt(2)*2/21) OK
+T3: tower coords of Q^4*r_p: X-part nonzero = True
+    r_p ∉ L_p  =>  rho_p >= 2; degree 3 impossible (3 ∤ 4).
+    Hence rho_p ∈ {2, 4}.
+T4: annihilator degree in V: 4
+    QQ-factor multidegrees: [4]
+    factor of V-degree 4 VANISHES at r_p
+RESULT: rho_p = 4
+minimal polynomial (primitive QQ-form):
+    121550625*Q**16*V**4 - 40000*Q**14*T**7 - 9261000*Q**14*T**3*V**2*W + 193200*Q**12*T**6*W**2 + 8489250*Q**12*T**2*V**2*W**3 - 325164*Q**10*T**5*W**4 - 2315250*Q**10*T*V**2*W**5 + 236425*Q**8*T**4*W**6 + 198450*Q**8*V**2*W**7 - 88410*Q**6*T**3*W**8 + 17955*Q**4*T**2*W**10 - 1890*Q**2*T*W**12 + 81*W**14
+T5: swapped-order annihilator V-degree: 4 consistent
+probe_rho_p OK

@@ -1,0 +1,124 @@
+PASS m=0 extremal (e=0,r=0) present
+PASS m=0 extremal exponents = target (0,0)
+PASS m=0 all pe == 2m = 0
+PASS m=0 extremal divides all others
+PASS m=0 gen(e=0,r=0) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=0=2k even generators 11025^r p^4k q^(8k-4r)
+  m=0 J=(p^0 q^0) gens=[(0, 0, 0)]
+PASS m=1 extremal (e=1,r=0) present
+PASS m=1 extremal exponents = target (2,4)
+PASS m=1 all pe == 2m = 2
+PASS m=1 extremal divides all others
+PASS m=1 gen(e=1,r=0) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=1=2k+1 J_odd = c * J_even
+  m=1 J=(p^2 q^4) gens=[(2, 4, 0)]
+PASS m=2 extremal (e=0,r=1) present
+PASS m=2 extremal exponents = target (4,4)
+PASS m=2 all pe == 2m = 4
+PASS m=2 extremal divides all others
+PASS m=2 gen(e=2,r=0) quo (dp=0,dq=4,du=11025^1) nonneg
+PASS m=2 gen(e=0,r=1) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=2=2k even generators 11025^r p^4k q^(8k-4r)
+  m=2 J=(p^4 q^4) gens=[(4, 8, 0), (4, 4, 1)]
+PASS m=3 extremal (e=1,r=1) present
+PASS m=3 extremal exponents = target (6,8)
+PASS m=3 all pe == 2m = 6
+PASS m=3 extremal divides all others
+PASS m=3 gen(e=3,r=0) quo (dp=0,dq=4,du=11025^1) nonneg
+PASS m=3 gen(e=1,r=1) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=3=2k+1 J_odd = c * J_even
+  m=3 J=(p^6 q^8) gens=[(6, 12, 0), (6, 8, 1)]
+PASS m=4 extremal (e=0,r=2) present
+PASS m=4 extremal exponents = target (8,8)
+PASS m=4 all pe == 2m = 8
+PASS m=4 extremal divides all others
+PASS m=4 gen(e=4,r=0) quo (dp=0,dq=8,du=11025^2) nonneg
+PASS m=4 gen(e=2,r=1) quo (dp=0,dq=4,du=11025^1) nonneg
+PASS m=4 gen(e=0,r=2) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=4=2k even generators 11025^r p^4k q^(8k-4r)
+  m=4 J=(p^8 q^8) gens=[(8, 16, 0), (8, 12, 1), (8, 8, 2)]
+PASS m=5 extremal (e=1,r=2) present
+PASS m=5 extremal exponents = target (10,12)
+PASS m=5 all pe == 2m = 10
+PASS m=5 extremal divides all others
+PASS m=5 gen(e=5,r=0) quo (dp=0,dq=8,du=11025^2) nonneg
+PASS m=5 gen(e=3,r=1) quo (dp=0,dq=4,du=11025^1) nonneg
+PASS m=5 gen(e=1,r=2) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=5=2k+1 J_odd = c * J_even
+  m=5 J=(p^10 q^12) gens=[(10, 20, 0), (10, 16, 1), (10, 12, 2)]
+PASS m=6 extremal (e=0,r=3) present
+PASS m=6 extremal exponents = target (12,12)
+PASS m=6 all pe == 2m = 12
+PASS m=6 extremal divides all others
+PASS m=6 gen(e=6,r=0) quo (dp=0,dq=12,du=11025^3) nonneg
+PASS m=6 gen(e=4,r=1) quo (dp=0,dq=8,du=11025^2) nonneg
+PASS m=6 gen(e=2,r=2) quo (dp=0,dq=4,du=11025^1) nonneg
+PASS m=6 gen(e=0,r=3) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=6=2k even generators 11025^r p^4k q^(8k-4r)
+  m=6 J=(p^12 q^12) gens=[(12, 24, 0), (12, 20, 1), (12, 16, 2), (12, 12, 3)]
+PASS m=7 extremal (e=1,r=3) present
+PASS m=7 extremal exponents = target (14,16)
+PASS m=7 all pe == 2m = 14
+PASS m=7 extremal divides all others
+PASS m=7 gen(e=7,r=0) quo (dp=0,dq=12,du=11025^3) nonneg
+PASS m=7 gen(e=5,r=1) quo (dp=0,dq=8,du=11025^2) nonneg
+PASS m=7 gen(e=3,r=2) quo (dp=0,dq=4,du=11025^1) nonneg
+PASS m=7 gen(e=1,r=3) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=7=2k+1 J_odd = c * J_even
+  m=7 J=(p^14 q^16) gens=[(14, 28, 0), (14, 24, 1), (14, 20, 2), (14, 16, 3)]
+PASS m=8 extremal (e=0,r=4) present
+PASS m=8 extremal exponents = target (16,16)
+PASS m=8 all pe == 2m = 16
+PASS m=8 extremal divides all others
+PASS m=8 gen(e=8,r=0) quo (dp=0,dq=16,du=11025^4) nonneg
+PASS m=8 gen(e=6,r=1) quo (dp=0,dq=12,du=11025^3) nonneg
+PASS m=8 gen(e=4,r=2) quo (dp=0,dq=8,du=11025^2) nonneg
+PASS m=8 gen(e=2,r=3) quo (dp=0,dq=4,du=11025^1) nonneg
+PASS m=8 gen(e=0,r=4) quo (dp=0,dq=0,du=11025^0) nonneg
+PASS m=8=2k even generators 11025^r p^4k q^(8k-4r)
+  m=8 J=(p^16 q^16) gens=[(16, 32, 0), (16, 28, 1), (16, 24, 2), (16, 20, 3), (16, 16, 4)]
+PASS minC5(0) = 0
+PASS gap(0) = [0,-1] nonempty
+  minC5(0)=0 gap=[0,-1]
+PASS minC5(1) = 14
+PASS gap(1) = [8,13] nonempty
+  minC5(1)=14 gap=[8,13]
+PASS minC5(2) = 24
+PASS gap(2) = [16,23] nonempty
+  minC5(2)=24 gap=[16,23]
+PASS minC5(3) = 38
+PASS gap(3) = [24,37] nonempty
+  minC5(3)=38 gap=[24,37]
+PASS minC5(4) = 48
+PASS gap(4) = [32,47] nonempty
+  minC5(4)=48 gap=[32,47]
+PASS minC5(5) = 62
+PASS gap(5) = [40,61] nonempty
+  minC5(5)=62 gap=[40,61]
+PASS minC5(6) = 72
+PASS gap(6) = [48,71] nonempty
+  minC5(6)=72 gap=[48,71]
+PASS minC5(7) = 86
+PASS gap(7) = [56,85] nonempty
+  minC5(7)=86 gap=[56,85]
+PASS minC5(8) = 96
+PASS gap(8) = [64,95] nonempty
+  minC5(8)=96 gap=[64,95]
+PASS F-F0-outside-J5 top exponents (p^8 q^12)
+PASS F-F0-outside-J5 J5 target (p^10 q^12)
+PASS F-F0-outside-J5 v_p = 8 < 10 = 2*5
+PASS F-F0-outside-J5 p-deficit (dp=-2) blocks J5 membership
+PASS F-F0-outside-J5 top (18375/4)p^8q^12 outside J5
+  F-F0-outside-J5 top=(18375/4)p^8 q^12 J5=(p^10 q^12) weight=60 a0deg=5
+PASS F-H-outside-J6 top exponents (p^10 q^12)
+PASS F-H-outside-J6 J6 target (p^12 q^12)
+PASS F-H-outside-J6 v_p = 10 < 12 = 2*6
+PASS F-H-outside-J6 p-deficit (dp=-2) blocks J6 membership
+PASS F-H-outside-J6 top outside J6
+  F-H-outside-J6 top=(18375/4).11025p^10 q^12 J6=(p^12 q^12) weight=70 a0deg=6
+PASS F-F02-outside-J6 top exponents (p^10 q^16)
+PASS F-F02-outside-J6 v_p = 10 < 12 = 2*6
+PASS F-F02-outside-J6 p-deficit (dp=-2) blocks J6 membership
+PASS F-F02-outside-J6 top outside J6
+  F-F02-outside-J6 top=(18375/4)p^10 q^16 J6=(p^12 q^12) weight=74 a0deg=6
+check_Jtops OK

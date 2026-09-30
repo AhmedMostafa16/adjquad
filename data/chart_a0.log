@@ -1,0 +1,5 @@
+PASS D-orbit length N=7 [7]
+PASS J2 |/- NUM (s>=1 impossible) [['-6103515625/201721916592...', '-1371287750845392748544/...']]
+PASS s=7 (global) fails
+PASS s=6 fails (complete system)
+chart-a0 OK

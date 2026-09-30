@@ -1,0 +1,7 @@
+PASS M1 ker(delta_q)=k[p,x,u] deg<=8
+PASS M2 cap dims = dimK[w-2]+dimK[w-13] (w<=20)
+PASS M3 q-res ranks = dimKbar[w-13] (13<=w<=20)
+PASS M4 no p-primitive plinth elt (w<=18)
+PASS M5 A_{pq} cap A_{f13} = A_p certs
+PASS M7 terminal stratum V(q,x) certs
+plinth-module OK

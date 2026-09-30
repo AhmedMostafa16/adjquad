@@ -1,0 +1,13 @@
+dimV = 22206
+building G rows
+G: 1874 x 22206
+F*p^2: solve True, verify True, nnz(y)=7
+    y[(0, 6, 7, 0, 0, 0)]=40000
+    y[(0, 4, 6, 2, 0, 0)]=193200
+    y[(0, 2, 5, 4, 0, 0)]=325164
+    y[(0, 0, 4, 6, 0, 0)]=148225
+    y[(0, 2, 3, 1, 0, 1)]=840
+    y[(0, 0, 2, 3, 0, 1)]=770
+    y[(0, 0, 0, 0, 0, 2)]=1
+F*p*q: NO SOLUTION (matrix equation has no solutions)
+F*q^2: NO SOLUTION (matrix equation has no solutions)

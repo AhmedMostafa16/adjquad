@@ -1,0 +1,13 @@
+base self-checks:
+PASS D6(HB)=0
+PASS dir1 eq (deg 7)
+PASS dir2 eq (deg 7)
+PASS dir3 eq (deg 7)
+PASS dir4 eq (deg 8)
+base checks t=0.0s
+rows: 14361 Mcols: 206 Ncols: 11628
+goods_QQ(13) = 68
+gendim = 68
+quot-dim = 0
+Q13 = 0
+m13 DONE

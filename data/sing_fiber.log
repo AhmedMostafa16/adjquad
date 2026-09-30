@@ -1,0 +1,52 @@
+dim base: 2
+primdec t=0.6s ncomps=9
+--- component 0 dim 2 
+prime dim: 2
+    F0
+    150*q^2*J1^3*J2 + 331*J1^2*J2^3 + H
+    25*q^4*J1^2 + 51*q^2*J1*J2^2 + 9*J2^4
+--- component 1 dim 2 
+prime dim: 2
+    100*q^2*J1 + 21*J2^2
+    1484*J1^2*J2^3 + 5*H
+    27*J2^7 + 7656250*F0^2
+--- component 2 dim 2 
+prime dim: 2
+    F0
+    4*q^2*J1 + J2^2
+    276*J1^2*J2^3 + H
+--- component 3 dim 2 
+prime dim: 2
+    q
+    385*J1^2*J2^3 + H
+    J2^7 + 1225*F0^2
+--- component 4 dim 2 
+prime dim: 2
+    H
+    J1
+    J2^7 + 1225*F0^2
+--- component 5 dim 1 
+prime dim: 1
+    H
+    F0
+    J2
+    q
+--- component 6 dim 1 
+prime dim: 1
+    H
+    J1
+    q
+    J2^7 + 1225*F0^2
+--- component 7 dim 1 
+prime dim: 1
+    H
+    F0
+    J2
+    J1
+--- component 8 dim 0 
+prime dim: 0
+    H
+    F0
+    J2
+    J1
+    q

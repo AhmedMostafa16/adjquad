@@ -1,0 +1,50 @@
+PASS D(a_1)=a_2a_3
+PASS D(a_2)=a_3a_4
+PASS D(a_3)=a_4a_5
+PASS D(a_4)=a_5a_6
+PASS D(a_5)=0
+PASS D(a_6)=0
+PASS D(G_1=a_5)=0
+PASS verify_D(G_1=a_5)
+PASS D(G_2=a_6)=0
+PASS verify_D(G_2=a_6)
+PASS D(G_3=2a_2a_5-a_3^2)=0
+PASS verify_D(G_3=2a_2a_5-a_3^2)
+PASS D(G_4=2a_3a_6-a_4^2)=0
+PASS verify_D(G_4=2a_3a_6-a_4^2)
+PASS D(G_5 (degree 7))=0
+PASS verify_D(G_5 (degree 7))
+PASS c_6=a_5^2a_6^4
+PASS D(c_6)=0
+PASS verify_D(c_6)
+PASS D(105c_6)=0
+PASS G_5 a_1-coefficient is 105c_6
+PASS N_5=G_5-105c_6a_1 free of a_1
+PASS c_6 is an a_5a_6-power
+PASS D(s)=1 for s=a_4/(a_5a_6)
+PASS denom(A4s) is an a_5a_6-power
+PASS denom(A3s) is an a_5a_6-power
+PASS denom(A2s) is an a_5a_6-power
+PASS denom(A1s) is an a_5a_6-power
+PASS N5s substituted is a polynomial (constant denominator)
+PASS c_6*A4s is a polynomial
+PASS c_6*A3s is a polynomial
+PASS c_6*A2s is a polynomial
+PASS c_6*A1s is a polynomial up to unit 1/105
+PASS 105c_6*A1s is a polynomial exactly
+PASS c_6 clears: A4 recovers a_4
+PASS c_6 clears: A3 recovers a_3
+PASS c_6 clears: A2 recovers a_2
+PASS c_6 clears: A1 recovers a_1
+PASS wt(G_1)=1
+PASS wt(G_2)=1
+PASS wt(G_3)=6
+PASS wt(G_4)=4
+PASS wt(G_5)=14
+PASS wt(c_6)=6
+PASS wt(105c_6)=6
+PASS wt(a_1)=8
+PASS every N_5 monomial has weight 14
+PASS every W-term has weight 8
+PASS weight-shift wt(G_5)=wt(W)+wt(c_6): 14=8+6 HOLDS
+check_denom6 OK

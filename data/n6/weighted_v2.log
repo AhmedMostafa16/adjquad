@@ -1,0 +1,74 @@
+PASS D(G_1=a_5)=0
+PASS D(G_2=a_6)=0
+PASS D(G_3=2a_2a_5-a_3^2)=0
+PASS D(G_4=2a_3a_6-a_4^2)=0
+PASS D(G_5 (degree 7))=0
+PASS Jacobian 5x5 minor = 420*a_5^3*a_6^5
+w  dimV  kerdim  free  hyp   gap
+  0   1     1      1    1     +0
+PASS w=0 kerdim==free==oracle(1)
+  1   2     2      2    2     +0
+PASS w=1 kerdim==free==oracle(2)
+  2   4     3      3    3     +0
+PASS w=2 kerdim==free==oracle(3)
+  3   7     4      4    4     +0
+PASS w=3 kerdim==free==oracle(4)
+  4   11    6      6    6     +0
+PASS w=4 kerdim==free==oracle(6)
+  5   17    8      8    8     +0
+PASS w=5 kerdim==free==oracle(8)
+  6   25    11     11   11    +0
+PASS w=6 kerdim==free==oracle(11)
+  7   35    14     14   14    +0
+PASS w=7 kerdim==free==oracle(14)
+  8   49    18     18   18    +0
+PASS w=8 kerdim==free==oracle(18)
+  9   66    22     22   22    +0
+PASS w=9 kerdim==free==oracle(22)
+  10  88    27     27   27    +0
+PASS w=10 kerdim==free==oracle(27)
+  11  115   32     32   32    +0
+PASS w=11 kerdim==free==oracle(32)
+  12  148   39     39   39    +0
+PASS w=12 kerdim==free==oracle(39)
+  13  188   46     46   46    +0
+PASS w=13 kerdim==free==oracle(46)
+  14  236   55     55   55    +0
+PASS w=14 kerdim==free==oracle(55)
+  15  293   64     64   64    +0
+PASS w=15 kerdim==free==oracle(64)
+  16  361   75     75   75    +0
+PASS w=16 kerdim==free==oracle(75)
+  17  440   86     86   86    +0
+PASS w=17 kerdim==free==oracle(86)
+  18  533   100    100  100   +0
+PASS w=18 kerdim==free==oracle(100)
+  19  640   114    114  114   +0
+PASS w=19 kerdim==free==oracle(114)
+  20  764   131    131  131   +0
+PASS w=20 kerdim==free==oracle(131)
+  21  906   148    148  148   +0
+PASS w=21 kerdim==free==hyp(148)
+  22  1068  168    168  168   +0
+PASS w=22 kerdim==free==hyp(168)
+  23  1252  188    188  188   +0
+PASS w=23 kerdim==free==hyp(188)
+  24  1461  213    212  213   +1
+PASS w=24 kerdim==hyp(213)
+  25  1696  238    236  238   +2
+PASS w=25 kerdim==hyp(238)
+  26  1961  267    264  267   +3
+PASS w=26 kerdim==hyp(267)
+  27  2257  296    292  296   +4
+PASS w=27 kerdim==hyp(296)
+  28  2588  330    325  330   +5
+PASS w=28 kerdim==hyp(330)
+  29  2956  364    358  364   +6
+PASS w=29 kerdim==hyp(364)
+  30  3365  404    396  404   +8
+PASS w=30 kerdim==hyp(404)
+  31  3817  444    434  444   +10
+PASS w=31 kerdim==hyp(444)
+  32  4317  490    478  490   +12
+PASS w=32 kerdim==hyp(490)
+check_N6_weighted_v2 OK

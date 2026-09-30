@@ -1,0 +1,10 @@
+Hbar_q terms: 4
+F46bar terms: 3
+F46bar nonzero: True
+graph ideal built.
+GB done t=1.3s, size=24
+elimination size: 3
+S,C,Q in E: True True True
+E subset (S,p2T-E,Q): True t=0.0s
+(S,p2T-E,Q) subset E: True
+EQUAL: True

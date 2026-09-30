@@ -1,0 +1,16 @@
+PASS x recovers a3
+PASS y recovers a2
+PASS z recovers a1
+PASS s-support of a1a2 is [0,2,4,6]
+PASS e_0 exact
+PASS e_2 exact
+PASS e_4 exact
+PASS e_6 exact
+PASS x-support of T is [1,3,5,7]
+PASS x^7 = -1/(p^2q^4)
+PASS x^5 = a2/(p^2q^3)
+PASS x^3 num exact
+PASS x^1 = a1a2/(pq)
+PASS N-formulas reproduce +G0 (k=0..7)
+PASS N_0 of +G0 is 0
+check_N5_dixmier OK

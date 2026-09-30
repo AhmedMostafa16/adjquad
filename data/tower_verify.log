@@ -1,0 +1,62 @@
+=== weight 48 ===
+dimV=22206
+C5rows=1874 rank(G)=1743 formula=1743 NOR2NDREL
+F-family rows=2 (pred excess=2)
+rank(stack)=1745 formula+P=1745 SPAN
+rank_p(M) nullity N_p=1745 formula+P=1745 MEET
+VERDICT w=48: EXACT excess=2 (squeeze lower+upper meet)
+=== weight 70 ===
+dimV=112241
+C5rows=7399 rank(G)=6210 formula=6210 NOR2NDREL
+F-family rows=45 (pred excess=45)
+rank(stack)=6255 formula+P=6255 SPAN
+=== weight 71 ===
+dimV=119473
+C5rows=7800 rank(G)=6516 formula=6516 NOR2NDREL
+F-family rows=50 (pred excess=50)
+rank(stack)=6566 formula+P=6566 SPAN
+=== weight 72 ===
+dimV=127074
+C5rows=8238 rank(G)=6847 formula=6847 NOR2NDREL
+F-family rows=54 (pred excess=54)
+rank(stack)=6901 formula+P=6901 SPAN
+=== weight 73 ===
+dimV=135055
+C5rows=8676 rank(G)=7178 formula=7178 NOR2NDREL
+F-family rows=58 (pred excess=58)
+rank(stack)=7236 formula+P=7236 SPAN
+=== weight 74 ===
+dimV=143433
+C5rows=9151 rank(G)=7533 formula=7533 NOR2NDREL
+F-family rows=63 (pred excess=63)
+rank(stack)=7596 formula+P=7596 SPAN
+=== weight 85 ===
+dimV=266098
+C5rows=15700 rank(G)=12256 formula=12256 NOR2NDREL
+F-family rows=134 (pred excess=134)
+=== weight 85 ===
+dimV=266098
+C5rows=15700 rank(G)=12256 formula=12256 NOR2NDREL
+F-family rows=134 (pred excess=134)
+=== weight 46 ===
+dimV=18597
+C5rows=1618 rank(G)=1518 formula=1518 NOR2NDREL
+F-family rows=1 (pred excess=1)
+rank(stack)=1519 formula+P=1519 SPAN
+=== weight 85 ===
+dimV=266098
+C5rows=15700 rank(G)=12256 formula=12256 NOR2NDREL
+F-family rows=134 (pred excess=134)
+=== weight 48 ===
+dimV=22206
+C5rows=1874 rank(G)=1743 formula=1743 NOR2NDREL
+F-family rows=2 (pred excess=2)
+rank(stack)=1745 formula+P=1745 SPAN
+rank_p(M) nullity N_p=1745 formula+P=1745 MEET
+VERDICT w=48: EXACT excess=2 (squeeze lower+upper meet)
+=== weight 85 ===
+dimV=266098
+C5rows=15700 rank(G)=12256 formula=12256 NOR2NDREL
+F-family rows=134 (pred excess=134)
+rank(stack)=12390 formula+P=12390 SPAN
+VERDICT w=85: LOWER meets prediction (upper open)

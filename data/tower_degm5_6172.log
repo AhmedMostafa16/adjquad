@@ -1,0 +1,39 @@
+# tower_degm: m=5 J=(p^10 q^12) [EXACT-QQ, Sage LinBox]
+  self-test chain==direct at w=10 OK
+  self-test chain==direct at w=14 OK
+=== m=5 weight 61 ===
+n_le=3888 N_J=3886 nviol=2 pred=2 (res=137.6s con=146.9s)
+MATCH prediction (no new primitive at degree 5, w=61)
+=== m=5 weight 62 ===
+n_le=4115 N_J=4113 nviol=2 pred=2 (res=198.5s con=396.4s)
+MATCH prediction (no new primitive at degree 5, w=62)
+=== m=5 weight 63 ===
+n_le=4342 N_J=4340 nviol=2 pred=2 (res=400.0s con=409.2s)
+MATCH prediction (no new primitive at degree 5, w=63)
+=== m=5 weight 64 ===
+n_le=4588 N_J=4585 nviol=3 pred=3 (res=499.7s con=544.4s)
+MATCH prediction (no new primitive at degree 5, w=64)
+=== m=5 weight 65 ===
+n_le=4834 N_J=4830 nviol=4 pred=4 (res=549.5s con=600.4s)
+MATCH prediction (no new primitive at degree 5, w=65)
+=== m=5 weight 66 ===
+n_le=5101 N_J=5096 nviol=5 pred=5 (res=680.0s con=746.7s)
+MATCH prediction (no new primitive at degree 5, w=66)
+=== m=5 weight 67 ===
+n_le=5368 N_J=5362 nviol=6 pred=6 (res=797.7s con=952.4s)
+MATCH prediction (no new primitive at degree 5, w=67)
+=== m=5 weight 68 ===
+n_le=5656 N_J=5649 nviol=7 pred=7 (res=981.0s con=1163.9s)
+MATCH prediction (no new primitive at degree 5, w=68)
+=== m=5 weight 69 ===
+n_le=5944 N_J=5936 nviol=8 pred=8 (res=1155.2s con=1428.1s)
+MATCH prediction (no new primitive at degree 5, w=69)
+=== m=5 weight 70 ===
+n_le=6254 N_J=6245 nviol=9 pred=9 (res=1359.7s con=1610.6s)
+MATCH prediction (no new primitive at degree 5, w=70)
+=== m=5 weight 71 ===
+n_le=6564 N_J=6554 nviol=10 pred=10 (res=1571.0s con=1924.7s)
+MATCH prediction (no new primitive at degree 5, w=71)
+=== m=5 weight 72 ===
+n_le=6898 N_J=6886 nviol=12 pred=12 (res=1866.5s con=2169.3s)
+MATCH prediction (no new primitive at degree 5, w=72)

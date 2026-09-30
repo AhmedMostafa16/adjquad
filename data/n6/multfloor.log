@@ -1,0 +1,21 @@
+PASS minpoly m(r_6) = 0
+PASS minpoly simple root
+  deficit -4*1: P = m^1 (deg 2) kills k<1, exact mult
+PASS s=1 joint system P^(k)(r6)=0 for k<1
+PASS s=1 exact multiplicity 2
+  deficit -4*2: P = m^2 (deg 4) kills k<2, exact mult
+PASS s=2 joint system P^(k)(r6)=0 for k<2
+PASS s=2 exact multiplicity 4
+  deficit -4*3: P = m^3 (deg 6) kills k<3, exact mult
+PASS s=3 joint system P^(k)(r6)=0 for k<3
+PASS s=3 exact multiplicity 6
+  deficit -4*4: P = m^4 (deg 8) kills k<4, exact mult
+PASS s=4 joint system P^(k)(r6)=0 for k<4
+PASS s=4 exact multiplicity 8
+  deficit -4*5: P = m^5 (deg 10) kills k<5, exact mult
+PASS s=5 joint system P^(k)(r6)=0 for k<5
+PASS s=5 exact multiplicity 10
+  deficit -4*6: P = m^6 (deg 12) kills k<6, exact mult
+PASS s=6 joint system P^(k)(r6)=0 for k<6
+PASS s=6 exact multiplicity 12
+check_N6_multfloor OK

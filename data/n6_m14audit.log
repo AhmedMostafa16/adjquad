@@ -1,0 +1,10 @@
+rows: 19008 Mcols: 259 Ncols: 15504 t=0.1s
+built t=0.2s
+Mf.rank default = 15354 t=5.3s
+Mf singular FAILED: rank() got an unexpected keyword argument 'algorithm'
+Mf.T.rank = 15354 t=41.2s
+MN.rank default = 15189 t=4.1s
+MN singular FAILED: rank() got an unexpected keyword argument 'algorithm'
+mod-p nullF = 409 t=30.7s
+mod-p nullN = 315 t=30.5s
+audit DONE

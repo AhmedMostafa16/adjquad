@@ -1,0 +1,23 @@
+D(g13)-f13 = True
+D(f13) = True
+=> D(s1)=1 by quotient rule, no rational arithmetic needed.
+pi1(a3): N=1 numterms=6 build=0.1s
+  D(NUM)==0: True check=0.3s
+  t=0: pi1 = 1
+  t=1: pi1 = 1
+  t=2: pi1 = 1
+pi1(a2): N=2 numterms=22 build=0.3s
+  D(NUM)==0: True check=1.2s
+  t=0: pi1 = 0
+  t=1: pi1 = 0
+  t=2: pi1 = 0
+pi1(a1): N=4 numterms=109 build=2.5s
+  D(NUM)==0: True check=8.1s
+  t=0: pi1 = 0
+  t=1: pi1 = 0
+  t=2: pi1 = 0
+pi1(a0): N=7 numterms=456 build=31.1s
+  D(NUM)==0: True check=40.2s
+  t=0: pi1 = 0
+  t=1: pi1 = -1/8
+  t=2: pi1 = -2

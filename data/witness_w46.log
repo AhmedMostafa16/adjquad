@@ -1,0 +1,13 @@
+support size = 79
+restricted matrix 18597 x 79, nnz=248
+restricted nullity over QQ = 1
+candidate terms = 79
+cleared denominator = 26460
+D(F) == 0 exactly: True
+a0-degree = 4
+top-a0 terms:
+  (4, 0, 0, 0, 6, 8) : 121550625
+top coeff C = 121550625*a4^6*a5^8
+top nterms = 1
+v_p(C) = 6 (P-top needs >= 8)
+v_q(C) = 8 (Q-top-strong needs >= 8)

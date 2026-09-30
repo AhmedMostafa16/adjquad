@@ -1,0 +1,6 @@
+PASS a1a2*M + D6(N) = 0
+PASS D6(N) = -a1a2*M (direct)
+PASS Fibonacci weight 22
+PASS 10-term N
+PASS M not multiple of a5^4a6^3
+check_N6_D2 OK

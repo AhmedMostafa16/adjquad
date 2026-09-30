@@ -1,0 +1,84 @@
+# tower_degm: m=4 J=(p^8 q^8) [EXACT-QQ, Sage LinBox]
+  self-test chain==direct at w=10 OK
+  self-test chain==direct at w=14 OK
+=== m=4 weight 49 ===
+n_le=1864 N_J=1862 nviol=2 pred=2 (res=12.3s con=11.8s)
+MATCH prediction (no new primitive at degree 4, w=49)
+=== m=4 weight 50 ===
+n_le=1996 N_J=1993 nviol=3 pred=3 (res=15.0s con=13.8s)
+MATCH prediction (no new primitive at degree 4, w=50)
+=== m=4 weight 51 ===
+n_le=2128 N_J=2124 nviol=4 pred=4 (res=17.7s con=16.5s)
+MATCH prediction (no new primitive at degree 4, w=51)
+=== m=4 weight 52 ===
+n_le=2273 N_J=2268 nviol=5 pred=5 (res=20.9s con=19.5s)
+MATCH prediction (no new primitive at degree 4, w=52)
+=== m=4 weight 53 ===
+n_le=2418 N_J=2412 nviol=6 pred=6 (res=24.9s con=23.1s)
+MATCH prediction (no new primitive at degree 4, w=53)
+=== m=4 weight 54 ===
+n_le=2578 N_J=2571 nviol=7 pred=7 (res=29.7s con=27.4s)
+MATCH prediction (no new primitive at degree 4, w=54)
+=== m=4 weight 55 ===
+n_le=2738 N_J=2730 nviol=8 pred=8 (res=34.6s con=32.1s)
+MATCH prediction (no new primitive at degree 4, w=55)
+=== m=4 weight 56 ===
+n_le=2913 N_J=2904 nviol=9 pred=9 (res=40.7s con=45.5s)
+MATCH prediction (no new primitive at degree 4, w=56)
+=== m=4 weight 57 ===
+n_le=3088 N_J=3078 nviol=10 pred=10 (res=49.3s con=53.5s)
+MATCH prediction (no new primitive at degree 4, w=57)
+=== m=4 weight 58 ===
+n_le=3279 N_J=3267 nviol=12 pred=12 (res=58.0s con=82.7s)
+MATCH prediction (no new primitive at degree 4, w=58)
+=== m=4 weight 59 ===
+n_le=3470 N_J=3456 nviol=14 pred=14 (res=81.2s con=88.5s)
+MATCH prediction (no new primitive at degree 4, w=59)
+=== m=4 weight 60 ===
+n_le=3678 N_J=3663 nviol=15 pred=15 (res=119.7s con=107.0s)
+MATCH prediction (no new primitive at degree 4, w=60)
+=== m=4 weight 61 ===
+n_le=3886 N_J=3870 nviol=16 pred=16 (res=129.9s con=141.1s)
+MATCH prediction (no new primitive at degree 4, w=61)
+=== m=4 weight 62 ===
+n_le=4112 N_J=4094 nviol=18 pred=18 (res=189.7s con=193.6s)
+MATCH prediction (no new primitive at degree 4, w=62)
+=== m=4 weight 63 ===
+n_le=4338 N_J=4318 nviol=20 pred=20 (res=336.9s con=301.2s)
+MATCH prediction (no new primitive at degree 4, w=63)
+=== m=4 weight 64 ===
+n_le=4582 N_J=4560 nviol=22 pred=22 (res=438.5s con=261.3s)
+MATCH prediction (no new primitive at degree 4, w=64)
+=== m=4 weight 65 ===
+n_le=4826 N_J=4802 nviol=24 pred=24 (res=544.6s con=406.8s)
+MATCH prediction (no new primitive at degree 4, w=65)
+=== m=4 weight 66 ===
+n_le=5090 N_J=5064 nviol=26 pred=26 (res=607.7s con=475.2s)
+MATCH prediction (no new primitive at degree 4, w=66)
+=== m=4 weight 67 ===
+n_le=5354 N_J=5326 nviol=28 pred=28 (res=796.7s con=590.7s)
+MATCH prediction (no new primitive at degree 4, w=67)
+=== m=4 weight 68 ===
+n_le=5638 N_J=5608 nviol=30 pred=30 (res=956.1s con=805.8s)
+MATCH prediction (no new primitive at degree 4, w=68)
+=== m=4 weight 69 ===
+n_le=5922 N_J=5890 nviol=32 pred=32 (res=1111.2s con=929.7s)
+MATCH prediction (no new primitive at degree 4, w=69)
+=== m=4 weight 70 ===
+n_le=6227 N_J=6192 nviol=35 pred=35 (res=1335.9s con=1134.2s)
+MATCH prediction (no new primitive at degree 4, w=70)
+=== m=4 weight 71 ===
+n_le=6532 N_J=6494 nviol=38 pred=38 (res=1496.1s con=1283.5s)
+MATCH prediction (no new primitive at degree 4, w=71)
+=== m=4 weight 72 ===
+n_le=6859 N_J=6819 nviol=40 pred=40 (res=1770.6s con=2001.1s)
+MATCH prediction (no new primitive at degree 4, w=72)
+=== m=4 weight 73 ===
+n_le=7186 N_J=7144 nviol=42 pred=42 (res=2058.7s con=1948.0s)
+MATCH prediction (no new primitive at degree 4, w=73)
+=== m=4 weight 74 ===
+n_le=7536 N_J=7491 nviol=45 pred=45 (res=1978.6s con=2029.6s)
+MATCH prediction (no new primitive at degree 4, w=74)
+=== m=4 weight 75 ===
+n_le=7886 N_J=7838 nviol=48 pred=48 (res=2702.4s con=2543.8s)
+MATCH prediction (no new primitive at degree 4, w=75)

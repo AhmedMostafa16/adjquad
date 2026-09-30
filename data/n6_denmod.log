@@ -1,0 +1,14 @@
+base self-checks:
+PASS D6(HB)=0
+PASS a1a2M_d1+D6(N_d1)=0
+PASS a1a2M_d2+D6(N_d2)=0
+PASS a1a2M3+D6(N3)=0
+base checks t=0.0s
+m=7 goods=3 gendim=0 new=3 Fib(res)=[[7], [9], [11]] t=9.3s
+m=8 goods=7 gendim=6 new=1 Fib(res)=[[12]] t=34.1s
+m=9 goods=14 gendim=14 new=0 Fib(res)=[] t=110.7s
+m=10 goods=23 gendim=23 new=0 Fib(res)=[] t=469.7s
+m=11 goods=35 gendim=35 new=0 Fib(res)=[] t=1302.8s
+m=12 goods=50 gendim=50 new=0 Fib(res)=[] t=2957.2s
+joint generators: 4 rank 4
+denmod12 DONE

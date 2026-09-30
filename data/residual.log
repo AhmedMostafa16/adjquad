@@ -1,0 +1,16 @@
+PASS R1 d(a0)=a1a2
+PASS R1 d(a1)=a2a3
+PASS R1 d(a2)=0
+PASS R1 d(a3)=0
+PASS R1 d(q)=0
+PASS R2 D(theta)=2pqa0 [2*a0*a4*a5]
+PASS R3 F0|p=0 three terms
+PASS R3 H|p=0 a0-free
+PASS R3 H|p=0 four terms
+PASS R3 J1|p=0=-y^2
+PASS R3 J2|p=0=J2
+PASS R3 F46|p=0 != 0
+PASS R5 F0r,Hr a0-free
+PASS R6 F46|p=0 = B*theta
+PASS R4 ker(delta_p)=k[q,x,y,th] deg<=8
+residual OK

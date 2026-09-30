@@ -1,0 +1,44 @@
+=== weight 15 ===
+dimV=293 rank(M)=229 N_QQ=64
+C5rows=64 rank(G)=64
+formula=64 excess=N_QQ-rank(G)=0
+=== weight 16 ===
+dimV=361 rank(M)=286 N_QQ=75
+C5rows=75 rank(G)=75
+formula=75 excess=N_QQ-rank(G)=0
+=== weight 17 ===
+dimV=440 rank(M)=354 N_QQ=86
+C5rows=86 rank(G)=86
+formula=86 excess=N_QQ-rank(G)=0
+=== weight 18 ===
+dimV=533 rank(M)=433 N_QQ=100
+C5rows=100 rank(G)=100
+formula=100 excess=N_QQ-rank(G)=0
+=== weight 19 ===
+dimV=640 rank(M)=526 N_QQ=114
+C5rows=114 rank(G)=114
+formula=114 excess=N_QQ-rank(G)=0
+=== weight 20 ===
+dimV=764 rank(M)=633 N_QQ=131
+C5rows=131 rank(G)=131
+formula=131 excess=N_QQ-rank(G)=0
+=== weight 21 ===
+dimV=906 rank(M)=758 N_QQ=148
+C5rows=148 rank(G)=148
+formula=148 excess=N_QQ-rank(G)=0
+=== weight 22 ===
+dimV=1068 rank(M)=900 N_QQ=168
+C5rows=168 rank(G)=168
+formula=168 excess=N_QQ-rank(G)=0
+=== weight 23 ===
+dimV=1252 rank(M)=1064 N_QQ=188
+C5rows=188 rank(G)=188
+formula=188 excess=N_QQ-rank(G)=0
+=== weight 24 ===
+dimV=1461 rank(M)=1248 N_QQ=213
+C5rows=213 rank(G)=213
+formula=213 excess=N_QQ-rank(G)=0
+=== weight 25 ===
+dimV=1696 rank(M)=1458 N_QQ=238
+C5rows=238 rank(G)=238
+formula=238 excess=N_QQ-rank(G)=0

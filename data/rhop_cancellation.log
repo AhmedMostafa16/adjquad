@@ -1,0 +1,21 @@
+PASS R-residue-matches-manuscript
+  r_p = a2**2*a3**3/(3*a5**2) - a2*a3**5/(5*a5**3) + a3**7/(35*a5**4)
+PASS W-H4-top-monomial
+  H4/top-scale K = 121550625
+PASS W-H3-zero
+  H_4 vq=8 vp=6
+  H_2 vq=0 vp=2
+  H_1 vq=-4 vp=0
+  H_0 vq=-8 vp=-2
+PASS V-valuations-exact-6-2-0--2
+PASS E-rho-pole-exactly-2
+PASS E-term-4-order-exactly--2
+PASS E-term-2-order-exactly--2
+PASS E-term-1-order-exactly--2
+PASS E-term-0-order-exactly--2
+PASS E_4-nonzero
+  E_4 = 1500625*a2**8*a3**12 - 3601500*a2**7*a3**14/a5 + 3755850*a2**6*a3**16/a5**2 - 2222640*a2**5*a3**18/a5**3 + 816291*a2**4*a3**20/a5**4 - 190512*a2**3*a3**22/a5**5 + 27594*a2**2*a3**24/a5**6 - 2268*a2*a3**26/a5**7 + 81*a3**28/a5**8
+PASS E-sum-zero-quartic-relation
+  E_2 + E_1 + E_0 terms present (degrees 2,1,0; no cubic: H3=0)
+PASS C-C0-eq-a0coeff
+check_rhop_cancellation OK

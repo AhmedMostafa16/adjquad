@@ -1,0 +1,11 @@
+rows: 19008 Mcols: 259 Ncols: 15504 t=0.2s
+built t=0.3s
+MN.T.rank = 15189 t=63.8s
+Mf linbox FAILED: rank() got an unexpected keyword argument 'algorithm'
+MN linbox FAILED: rank() got an unexpected keyword argument 'algorithm'
+probe DONE
+MN.rank default = 15189 t=7.8s
+MN singular FAILED: rank() got an unexpected keyword argument 'algorithm'
+mod-p nullF = 409 t=34.5s
+mod-p nullN = 315 t=30.7s
+audit DONE

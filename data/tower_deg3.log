@@ -1,0 +1,105 @@
+# tower_deg3: degree-3 top census vs J_3=(p^6q^8) [EXACT-QQ, Sage LinBox]
+# method: N_le3 = null(D|V^{a0<=3}); N_J = null(J3-constrained chain); viol <=> N_J < N_le3
+self-test OK (J3 divisibility, chain==direct at 10/14, w38 constrained nonempty)
+=== weight 38 ===
+blocks: Bw=5152 Bw-8=2297 Bw-16=832 Bw-24=211 n_le3=8492 s=Bw-38=1
+N_le3=828 N_le2=827 dimT=1 N_J=828 violation=no nviol=0
+times: res=1.1s le2=1.1s con=1.0s
+=== weight 39 ===
+blocks: Bw=5639 Bw-8=2565 Bw-16=959 Bw-24=258 n_le3=9421 s=Bw-38=2
+N_le3=896 N_le2=894 dimT=2 N_J=896 violation=no nviol=0
+times: res=1.3s le2=1.3s con=1.3s
+=== weight 40 ===
+blocks: Bw=6160 Bw-8=2856 Bw-16=1100 Bw-24=312 n_le3=10428 s=Bw-38=4
+N_le3=972 N_le2=969 dimT=3 N_J=972 violation=no nviol=0
+times: res=1.7s le2=1.6s con=1.6s
+=== weight 41 ===
+blocks: Bw=6716 Bw-8=3171 Bw-16=1256 Bw-24=374 n_le3=11517 s=Bw-38=7
+N_le3=1048 N_le2=1044 dimT=4 N_J=1048 violation=no nviol=0
+times: res=2.1s le2=2.0s con=1.9s
+=== weight 42 ===
+blocks: Bw=7309 Bw-8=3511 Bw-16=1428 Bw-24=445 n_le3=12693 s=Bw-38=11
+N_le3=1134 N_le2=1128 dimT=6 N_J=1134 violation=no nviol=0
+times: res=2.6s le2=2.5s con=2.4s
+=== weight 43 ===
+blocks: Bw=7940 Bw-8=3878 Bw-16=1617 Bw-24=525 n_le3=13960 s=Bw-38=17
+N_le3=1220 N_le2=1212 dimT=8 N_J=1220 violation=no nviol=0
+times: res=3.2s le2=3.0s con=3.0s
+=== weight 44 ===
+blocks: Bw=8611 Bw-8=4273 Bw-16=1824 Bw-24=616 n_le3=15324 s=Bw-38=25
+N_le3=1316 N_le2=1305 dimT=11 N_J=1316 violation=no nviol=0
+times: res=3.8s le2=3.6s con=3.5s
+=== weight 45 ===
+blocks: Bw=9324 Bw-8=4697 Bw-16=2050 Bw-24=718 n_le3=16789 s=Bw-38=35
+N_le3=1412 N_le2=1398 dimT=14 N_J=1412 violation=no nviol=0
+times: res=4.6s le2=4.4s con=4.3s
+=== weight 46 ===
+blocks: Bw=10080 Bw-8=5152 Bw-16=2297 Bw-24=832 n_le3=18361 s=Bw-38=48
+N_le3=1518 N_le2=1500 dimT=18 N_J=1518 violation=no nviol=0
+times: res=5.7s le2=5.3s con=5.3s
+=== weight 47 ===
+blocks: Bw=10881 Bw-8=5639 Bw-16=2565 Bw-24=959 n_le3=20044 s=Bw-38=64
+N_le3=1624 N_le2=1602 dimT=22 N_J=1624 violation=no nviol=0
+times: res=6.7s le2=6.2s con=6.3s
+=== weight 48 ===
+blocks: Bw=11729 Bw-8=6160 Bw-16=2856 Bw-24=1100 n_le3=21845 s=Bw-38=84
+N_le3=1742 N_le2=1715 dimT=27 N_J=1742 violation=no nviol=0
+times: res=10.5s le2=7.7s con=9.6s
+# summary weights [38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]: no degree-3 violation (evidence, not proof)
+# tower_deg3 (append): existing log kept (2339 chars)
+self-test OK (J3 divisibility, chain==direct at 10/14, w38 constrained nonempty)
+=== weight 49 ===
+blocks: Bw=12625 Bw-8=6716 Bw-16=3171 Bw-24=1256 n_le3=23768 s=Bw-38=108
+N_le3=1860 N_le2=1828 dimT=32 N_J=1860 violation=no nviol=0
+times: res=12.5s le2=8.8s con=11.1s
+=== weight 50 ===
+blocks: Bw=13572 Bw-8=7309 Bw-16=3511 Bw-24=1428 n_le3=25820 s=Bw-38=137
+N_le3=1990 N_le2=1951 dimT=39 N_J=1990 violation=no nviol=0
+times: res=14.8s le2=10.6s con=13.2s
+=== weight 51 ===
+blocks: Bw=14571 Bw-8=7940 Bw-16=3878 Bw-24=1617 n_le3=28006 s=Bw-38=171
+N_le3=2120 N_le2=2074 dimT=46 N_J=2120 violation=no nviol=0
+times: res=17.8s le2=12.6s con=15.5s
+=== weight 52 ===
+blocks: Bw=15624 Bw-8=8611 Bw-16=4273 Bw-24=1824 n_le3=30332 s=Bw-38=211
+N_le3=2262 N_le2=2208 dimT=54 N_J=2262 violation=no nviol=0
+times: res=20.7s le2=14.6s con=18.5s
+=== weight 53 ===
+blocks: Bw=16733 Bw-8=9324 Bw-16=4697 Bw-24=2050 n_le3=32804 s=Bw-38=258
+N_le3=2404 N_le2=2342 dimT=62 N_J=2404 violation=no nviol=0
+times: res=24.3s le2=17.3s con=21.7s
+=== weight 54 ===
+blocks: Bw=17900 Bw-8=10080 Bw-16=5152 Bw-24=2297 n_le3=35429 s=Bw-38=312
+N_le3=2560 N_le2=2488 dimT=72 N_J=2560 violation=no nviol=0
+times: res=28.9s le2=20.4s con=25.3s
+# summary weights [49, 50, 51, 52, 53, 54]: no degree-3 violation (evidence, not proof)
+# tower_deg3 (append): existing log kept (3690 chars)
+self-test OK (J3 divisibility, chain==direct at 10/14, w38 constrained nonempty)
+=== weight 55 ===
+blocks: Bw=19127 Bw-8=10881 Bw-16=5639 Bw-24=2565 n_le3=38212 s=Bw-38=374
+N_le3=2716 N_le2=2634 dimT=82 N_J=2716 violation=no nviol=0
+times: res=33.9s le2=24.1s con=29.9s
+=== weight 56 ===
+blocks: Bw=20416 Bw-8=11729 Bw-16=6160 Bw-24=2856 n_le3=41161 s=Bw-38=445
+N_le3=2886 N_le2=2792 dimT=94 N_J=2886 violation=no nviol=0
+times: res=40.5s le2=27.7s con=35.1s
+=== weight 57 ===
+blocks: Bw=21769 Bw-8=12625 Bw-16=6716 Bw-24=3171 n_le3=44281 s=Bw-38=525
+N_le3=3056 N_le2=2950 dimT=106 N_J=3056 violation=no nviol=0
+times: res=47.2s le2=32.3s con=41.3s
+# summary weights [55, 56, 57]: no degree-3 violation (evidence, not proof)
+# tower_deg3 (append): existing log kept (4469 chars)
+self-test OK (J3 divisibility, chain==direct at 10/14, w38 constrained nonempty)
+=== weight 58 ===
+blocks: Bw=23188 Bw-8=13572 Bw-16=7309 Bw-24=3511 n_le3=47580 s=Bw-38=616
+N_le3=3240 N_le2=3120 dimT=120 N_J=3240 violation=no nviol=0
+times: res=55.8s le2=38.1s con=48.2s
+=== weight 59 ===
+blocks: Bw=24675 Bw-8=14571 Bw-16=7940 Bw-24=3878 n_le3=51064 s=Bw-38=718
+N_le3=3424 N_le2=3290 dimT=134 N_J=3424 violation=no nviol=0
+times: res=65.7s le2=44.3s con=55.8s
+=== weight 60 ===
+blocks: Bw=26233 Bw-8=15624 Bw-16=8611 Bw-24=4273 n_le3=54741 s=Bw-38=832
+N_le3=3624 N_le2=3474 dimT=150 N_J=3624 violation=no nviol=0
+times: res=77.7s le2=64.3s con=65.5s
+# summary weights [58, 59, 60]: no degree-3 violation (evidence, not proof)

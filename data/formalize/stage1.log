@@ -1,0 +1,90 @@
+== 1.1 D-invariance ==
+PASS 1.1 D(J1)=0
+PASS 1.1 D(J2)=0
+PASS 1.1 D(F0)=0
+PASS 1.1 verify_D(J1)
+PASS 1.1 verify_D(J2)
+PASS 1.1 verify_D(F0)
+== 1.2 Fibonacci weights ==
+PASS 1.2 J1 every monomial wt 6 (got [6, 6])
+PASS 1.2 J2 every monomial wt 4 (got [4, 4])
+PASS 1.2 F0 every monomial wt 14 (got [14, 14, 14, 14, 14, 14])
+== 1.3 Jacobian ==
+1.3 det factored form: -4*a_1*a_2*a_4**2*a_5**4
+1.3 det expanded form: -4*a_1*a_2*a_4**2*a_5**4
+PASS 1.3 det != 0 as polynomial
+PASS 1.3 det == -4*a1*a2*a4^2*a5^4
+PASS 1.3 Jacobian rank 5 at sample point
+== 1.4 graded kernel survey ==
+1.4 exact QQ kernel survey: full monomial basis + sparse Fraction elimination (rewritten §1.4), range 0..30
+1.4 w=0 computed=1 predicted=1 match=True (dim V=1 rank=0 0.00s)
+PASS 1.4 w=0 ker==predicted(1)
+1.4 w=1 computed=2 predicted=2 match=True (dim V=2 rank=0 0.00s)
+PASS 1.4 w=1 ker==predicted(2)
+1.4 w=2 computed=3 predicted=3 match=True (dim V=4 rank=1 0.00s)
+PASS 1.4 w=2 ker==predicted(3)
+1.4 w=3 computed=4 predicted=4 match=True (dim V=7 rank=3 0.00s)
+PASS 1.4 w=3 ker==predicted(4)
+1.4 w=4 computed=6 predicted=6 match=True (dim V=11 rank=5 0.00s)
+PASS 1.4 w=4 ker==predicted(6)
+1.4 w=5 computed=8 predicted=8 match=True (dim V=17 rank=9 0.00s)
+PASS 1.4 w=5 ker==predicted(8)
+1.4 w=6 computed=11 predicted=11 match=True (dim V=25 rank=14 0.00s)
+PASS 1.4 w=6 ker==predicted(11)
+1.4 w=7 computed=14 predicted=14 match=True (dim V=35 rank=21 0.00s)
+PASS 1.4 w=7 ker==predicted(14)
+1.4 w=8 computed=18 predicted=18 match=True (dim V=49 rank=31 0.00s)
+PASS 1.4 w=8 ker==predicted(18)
+1.4 w=9 computed=22 predicted=22 match=True (dim V=66 rank=44 0.00s)
+PASS 1.4 w=9 ker==predicted(22)
+1.4 w=10 computed=27 predicted=27 match=True (dim V=88 rank=61 0.00s)
+PASS 1.4 w=10 ker==predicted(27)
+1.4 w=11 computed=32 predicted=32 match=True (dim V=115 rank=83 0.00s)
+PASS 1.4 w=11 ker==predicted(32)
+1.4 w=12 computed=39 predicted=39 match=True (dim V=148 rank=109 0.00s)
+PASS 1.4 w=12 ker==predicted(39)
+1.4 w=13 computed=46 predicted=46 match=True (dim V=188 rank=142 0.00s)
+PASS 1.4 w=13 ker==predicted(46)
+1.4 w=14 computed=55 predicted=55 match=True (dim V=236 rank=181 0.00s)
+PASS 1.4 w=14 ker==predicted(55)
+1.4 w=15 computed=64 predicted=64 match=True (dim V=293 rank=229 0.00s)
+PASS 1.4 w=15 ker==predicted(64)
+1.4 w=16 computed=75 predicted=75 match=True (dim V=361 rank=286 0.00s)
+PASS 1.4 w=16 ker==predicted(75)
+1.4 w=17 computed=86 predicted=86 match=True (dim V=440 rank=354 0.00s)
+PASS 1.4 w=17 ker==predicted(86)
+1.4 w=18 computed=100 predicted=100 match=True (dim V=533 rank=433 0.01s)
+PASS 1.4 w=18 ker==predicted(100)
+1.4 w=19 computed=114 predicted=114 match=True (dim V=640 rank=526 0.01s)
+PASS 1.4 w=19 ker==predicted(114)
+1.4 w=20 computed=131 predicted=131 match=True (dim V=764 rank=633 0.02s)
+PASS 1.4 w=20 ker==predicted(131)
+1.4 w=21 computed=148 predicted=148 match=True (dim V=906 rank=758 0.02s)
+PASS 1.4 w=21 ker==predicted(148)
+1.4 w=22 computed=168 predicted=168 match=True (dim V=1068 rank=900 0.03s)
+PASS 1.4 w=22 ker==predicted(168)
+1.4 w=23 computed=188 predicted=188 match=True (dim V=1252 rank=1064 0.04s)
+PASS 1.4 w=23 ker==predicted(188)
+1.4 w=24 computed=213 predicted=212 match=False (dim V=1461 rank=1248 0.05s)
+FAIL 1.4 w=24 ker==predicted(212)
+1.4 w=25 computed=238 predicted=236 match=False (dim V=1696 rank=1458 0.08s)
+FAIL 1.4 w=25 ker==predicted(236)
+1.4 w=26 computed=267 predicted=264 match=False (dim V=1961 rank=1694 0.09s)
+FAIL 1.4 w=26 ker==predicted(264)
+1.4 w=27 computed=296 predicted=292 match=False (dim V=2257 rank=1961 0.12s)
+FAIL 1.4 w=27 ker==predicted(292)
+1.4 w=28 computed=330 predicted=325 match=False (dim V=2588 rank=2258 0.14s)
+FAIL 1.4 w=28 ker==predicted(325)
+1.4 w=29 computed=364 predicted=358 match=False (dim V=2956 rank=2592 0.19s)
+FAIL 1.4 w=29 ker==predicted(358)
+1.4 w=30 computed=404 predicted=396 match=False (dim V=3365 rank=2961 0.25s)
+FAIL 1.4 w=30 ker==predicted(396)
+1.4 full range 0..30 completed (no shrink needed)
+1.4 total wall-time 1.1s
+1.4 NOTE: mismatches at w>=24 (computed > predicted); see stage1 report (mathematical finding, not a script bug)
+== 1.5 G0 nonvanishing ==
+1.5 G0|_{a4=0} = a_2**2*a_3**3*a_5**2/3 - a_2*a_3**5*a_5/5 + a_3**7/35
+1.5 G0|_{a5=0} = a_3**7/35
+PASS 1.5 G0|_{a4=0} != 0
+PASS 1.5 G0|_{a5=0} != 0
+stage1 FAILED

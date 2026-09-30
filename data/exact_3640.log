@@ -1,0 +1,20 @@
+=== weight 36 ===
+dimV=6861 rank(M)=6161 N_QQ=700
+C5rows=718 rank(G)=700
+formula=700 excess=N_QQ-rank(G)=0
+=== weight 37 ===
+dimV=7653 rank(M)=6893 N_QQ=760
+C5rows=782 rank(G)=760
+formula=760 excess=N_QQ-rank(G)=0
+=== weight 38 ===
+dimV=8517 rank(M)=7689 N_QQ=828
+C5rows=855 rank(G)=828
+formula=828 excess=N_QQ-rank(G)=0
+=== weight 39 ===
+dimV=9456 rank(M)=8560 N_QQ=896
+C5rows=928 rank(G)=896
+formula=896 excess=N_QQ-rank(G)=0
+=== weight 40 ===
+dimV=10477 rank(M)=9505 N_QQ=972
+C5rows=1011 rank(G)=972
+formula=972 excess=N_QQ-rank(G)=0

@@ -1,0 +1,48 @@
+PASS D(p)=0
+PASS D(q)=0
+PASS D(J_1)=0
+PASS D(J_2)=0
+PASS D(F_0)=0
+PASS G0 is a0-free
+PASS seed a1a2*c+D5(G0)=0
+m  nulltot  kerB(m+1)  goods  free4(m-6)  verdict
+  0   2       2          0     0           DIVISIBLE
+PASS m=0 goods==free4(m-6)=0
+PASS m=0 all c*mu witnessed (exact)
+  1   5       5          0     0           DIVISIBLE
+PASS m=1 goods==free4(m-6)=0
+PASS m=1 all c*mu witnessed (exact)
+  2   8       8          0     0           DIVISIBLE
+PASS m=2 goods==free4(m-6)=0
+PASS m=2 all c*mu witnessed (exact)
+  3   14      14         0     0           DIVISIBLE
+PASS m=3 goods==free4(m-6)=0
+PASS m=3 all c*mu witnessed (exact)
+  4   20      20         0     0           DIVISIBLE
+PASS m=4 goods==free4(m-6)=0
+PASS m=4 all c*mu witnessed (exact)
+  5   30      30         0     0           DIVISIBLE
+PASS m=5 goods==free4(m-6)=0
+PASS m=5 all c*mu witnessed (exact)
+  6   41      40         1     1           DIVISIBLE
+PASS m=6 goods==free4(m-6)=1
+PASS m=6 all c*mu witnessed (exact)
+  7   57      55         2     2           DIVISIBLE
+PASS m=7 goods==free4(m-6)=2
+PASS m=7 all c*mu witnessed (exact)
+  8   75      70         5     5           DIVISIBLE
+PASS m=8 goods==free4(m-6)=5
+PASS m=8 all c*mu witnessed (exact)
+  9   99      91         8     8           DIVISIBLE
+PASS m=9 goods==free4(m-6)=8
+PASS m=9 all c*mu witnessed (exact)
+  10  126     112        14    14          DIVISIBLE
+PASS m=10 goods==free4(m-6)=14
+PASS m=10 all c*mu witnessed (exact)
+  11  160     140        20    20          DIVISIBLE
+PASS m=11 goods==free4(m-6)=20
+PASS m=11 all c*mu witnessed (exact)
+  12  198     168        30    30          DIVISIBLE
+PASS m=12 goods==free4(m-6)=30
+PASS m=12 all c*mu witnessed (exact)
+check_N5_O1 OK

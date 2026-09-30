@@ -1,0 +1,22 @@
+w=  0 dimK=  1 dim(cap)=  0 expected=  0 qprim-directions=  0 OK
+w=  1 dimK=  2 dim(cap)=  0 expected=  0 qprim-directions=  0 OK
+w=  2 dimK=  3 dim(cap)=  1 expected=  1 qprim-directions=  0 OK
+w=  3 dimK=  4 dim(cap)=  2 expected=  2 qprim-directions=  0 OK
+w=  4 dimK=  6 dim(cap)=  3 expected=  3 qprim-directions=  0 OK
+w=  5 dimK=  8 dim(cap)=  4 expected=  4 qprim-directions=  0 OK
+w=  6 dimK= 11 dim(cap)=  6 expected=  6 qprim-directions=  0 OK
+w=  7 dimK= 14 dim(cap)=  8 expected=  8 qprim-directions=  0 OK
+w=  8 dimK= 18 dim(cap)= 11 expected= 11 qprim-directions=  0 OK
+w=  9 dimK= 22 dim(cap)= 14 expected= 14 qprim-directions=  0 OK
+w= 10 dimK= 27 dim(cap)= 18 expected= 18 qprim-directions=  0 OK
+w= 11 dimK= 32 dim(cap)= 22 expected= 22 qprim-directions=  0 OK
+w= 12 dimK= 39 dim(cap)= 27 expected= 27 qprim-directions=  0 OK
+w= 13 dimK= 46 dim(cap)= 33 expected= 33 qprim-directions=  1 OK
+w= 14 dimK= 54 dim(cap)= 41 expected= 41 qprim-directions=  1 OK
+w= 15 dimK= 62 dim(cap)= 49 expected= 49 qprim-directions=  1 OK
+w= 16 dimK= 72 dim(cap)= 58 expected= 58 qprim-directions=  1 OK
+w= 17 dimK= 82 dim(cap)= 68 expected= 68 qprim-directions=  2 OK
+w= 18 dimK= 94 dim(cap)= 80 expected= 80 qprim-directions=  2 OK
+w= 19 dimK=106 dim(cap)= 93 expected= 93 qprim-directions=  3 OK
+w= 20 dimK=120 dim(cap)=108 expected=108 qprim-directions=  3 OK
+plinth-cap OK

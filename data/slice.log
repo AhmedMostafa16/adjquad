@@ -1,0 +1,31 @@
+PASS D(x)=pq
+PASS D(y)=px
+PASS D(z)=xy
+PASS D(p)=0
+PASS D(q)=0
+PASS D(J_1)=0
+PASS D(J_2)=0
+PASS verify_D(J_1)
+PASS verify_D(J_2)
+PASS D(s)=1 for s=x/(pq)
+PASS D(s) nonzero
+PASS D(s) in K (verify_D(D(s)))
+PASS 1 in R subset K (constants invariant)
+PASS s itself not invariant
+PASS D(Y)=0
+PASS D(Z)=0
+PASS Y=y-x^2/(2q)
+PASS denom(s) is a pq-power
+PASS denom(Y) is a pq-power
+PASS denom(Z) is a pq-power
+PASS x=pqs
+PASS y=Y+p^2qs^2/2
+PASS z=Z+pqYs^2/2+p^3q^2s^4/8
+PASS y-RHS in R_{pq}[s]
+PASS z-RHS in R_{pq}[s]
+PASS denom(x-RHS) is a pq-power
+PASS denom(y-RHS) is a pq-power
+PASS denom(z-RHS) is a pq-power
+PASS slice eliminates to 2qY-J_2=0
+PASS slice eliminates to 2pZ-Y^2-J_1=0
+check_slice OK

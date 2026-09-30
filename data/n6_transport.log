@@ -1,0 +1,7 @@
+PASS J1B = 2a2a5-a3^2
+PASS J2B = G4 = 2a3a6-a4^2
+PASS E_B uniform weight 48
+PASS a5^2 phi(F46) uniform weight 48
+PASS (a5)^2 phi(F46) - E_B == 0
+E_B terms: 79; LHS terms: 79
+n6-transport OK

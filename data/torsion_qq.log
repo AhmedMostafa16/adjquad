@@ -1,0 +1,4 @@
+PASS T1 (C5:p)_w=C5_w w<=24 exact
+PASS T2 (C5:p^2)_w=C5_w w<=24 exact
+PASS T3 terminal stratum V(q,x) certs
+torsion-qq OK

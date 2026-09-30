@@ -1,0 +1,38 @@
+PASS D(a_4)=0
+PASS D(a_5)=0
+PASS D(2a1a4-a2^2)=0
+PASS D(2a2a5-a3^2)=0
+PASS verify_D(p)
+PASS verify_D(q)
+PASS verify_D(J_1)
+PASS verify_D(J_2)
+PASS D(x)=pq
+PASS D(y)=px
+PASS D(z)=xy
+PASS Jacobian 4x4 minor = 4*a_4*a_5
+PASS minor is a nonzero polynomial
+PASS Jacobian rank 4 at sample point
+PASS D(s)=1 for s=x/(pq)
+PASS s is not invariant
+PASS Y=y-x^2/(2q)
+PASS D(Y)=0
+PASS D(Z)=0
+PASS 2pZ-Y^2=J_1
+PASS x=pqs
+PASS y=Y+p^2qs^2/2
+PASS z=Z+pqYs^2/2+p^3q^2s^4/8
+PASS alpha independent through deg 5 (56 monomials, rank 56)
+PASS beta independent through deg 5 (56 monomials, rank 56)
+PASS J_1 mod p = -y^2
+PASS J_2 mod q = -x^2
+PASS (J_1+y^2)/p=2z in B
+PASS (J_2+x^2)/q=2y in B
+PASS p does not divide J_1
+PASS p does not divide J_2
+PASS p does not divide q
+PASS q does not divide J_1
+PASS q does not divide J_2
+PASS q does not divide p
+PASS J_1/p not in B (remainder -y^2)
+PASS sample J_1^2+pqJ_2 invariant
+check_kernel OK

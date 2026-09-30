@@ -1,0 +1,5 @@
+PASS G4 irreducible
+PASS G4 has a6-free term -a4^2 (min a6-deg 0)
+PASS hence a6^2 does not divide G4
+PASS G4 does not divide a6^2 (rem Poly(a_6**2, a_1, a_2, a_3, a_4, a_5, a_6, domain='ZZ'))
+n6-G4 OK

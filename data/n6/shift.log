@@ -1,0 +1,14 @@
+PASS shift intertwines D5/D6 on all generators
+PASS D6(H_B)=0
+PASS H_B has a1-degree 2
+PASS R_24 has a1-degree <= 1 (=> H_B not in R)
+PASS S_B = 0 (transported relation)
+PASS D6(F0_B)=0
+PASS C0 = F0_B - G5/105 in k[a5,a6,G3,G4] (explicit)
+  C0 = 0: F0_B = G5/105 EXACTLY (shift of F0 is the degree-7 generator)
+PASS F0_B = G5/105 by direct expansion
+PASS H_2 = 11025*a5^4*a6^4
+  v6(H_2)=4 (box needs >=8: REFUTED)  v5(H_2)=4 (needs >=4: ok)
+PASS v6(H_2)=4 < 8
+PASS v5(H_2)=4 >= 4
+check_N6_shift OK
