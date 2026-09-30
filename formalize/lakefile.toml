@@ -1,0 +1,6 @@
+name = "AdjQuad"
+version = "0.1.0"
+defaultTargets = ["AdjQuad"]
+
+[[lean_lib]]
+name = "AdjQuad"

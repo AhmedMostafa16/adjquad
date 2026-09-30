@@ -1,0 +1,24 @@
+-- Root of the `AdjQuad` library.
+import AdjQuad.Poly
+import AdjQuad.Deriv
+import AdjQuad.CompLemmas
+import AdjQuad.SteinitzCounterexample
+import AdjQuad.WeightData
+import AdjQuad.Witness
+import AdjQuad.WitnessDataB1
+import AdjQuad.WitnessDataB2_2
+import AdjQuad.WitnessDataB2_3
+import AdjQuad.WitnessDataB2_5
+import AdjQuad.WitnessDataB2_7
+import AdjQuad.WitnessDataB2_8
+import AdjQuad.WitnessDataB2_9
+import AdjQuad.WitnessDataB2_10
+import AdjQuad.WitnessDataB2_11
+import AdjQuad.WitnessDataB2_12
+import AdjQuad.WitnessDataB2_13
+import AdjQuad.WitnessDataB2_14
+import AdjQuad.Generation
+import AdjQuad.SteinitzE2E
+import AdjQuad.GenerationVerified
+import AdjQuad.CertificatePrinciple
+import AdjQuad.A0Obstruction
